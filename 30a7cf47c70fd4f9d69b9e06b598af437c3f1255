@@ -1,0 +1,10 @@
+Code-Review+2: ChangBo Guo(gcb) <glongwave@gmail.com>
+Workflow+1: ChangBo Guo(gcb) <glongwave@gmail.com>
+Code-Review+2: Ronald Bradford <ronald.bradford@gmail.com>
+Workflow+1: Ronald Bradford <ronald.bradford@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 11 Jul 2016 22:35:04 +0000
+Reviewed-on: https://review.openstack.org/339921
+Project: openstack/deb-oslo.cache
+Branch: refs/heads/master

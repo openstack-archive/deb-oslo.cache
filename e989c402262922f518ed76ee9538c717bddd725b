@@ -1,0 +1,10 @@
+Code-Review+2: Joshua Harlow <jxharlow@godaddy.com>
+Code-Review+1: Eric Brown <browne@vmware.com>
+Code-Review+2: Alexis Lee <lxsli@hpe.com>
+Workflow+1: Alexis Lee <lxsli@hpe.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 13 Jul 2016 11:51:03 +0000
+Reviewed-on: https://review.openstack.org/340745
+Project: openstack/deb-oslo.cache
+Branch: refs/heads/master
